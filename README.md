@@ -1,1 +1,2 @@
-# Twitter Clone with Node.js and Socket.iO
+# Twitter
+Twitter Clone with Node.js and Socket.iO
